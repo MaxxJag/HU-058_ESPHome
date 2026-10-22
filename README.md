@@ -140,6 +140,9 @@ Firmware updates go over the air, part of the ESPHome suite.
 Out of scope by choice: the buzzer, the light sensor and the NTC thermistor. The
 buttons are exposed to Home Assistant but carry no built-in behavior.
 
+## Projects
+3ATIVE VFX did a project augmenting the capabilities of the clock firmware: https://www.youtube.com/watch?v=siBwsVdmn7I
+
 ## AI Disclaimer
 
 This project was coded with assistance from LLMs. Concept, design, testing, QA and code review was all done by me.
